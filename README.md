@@ -14,7 +14,7 @@ This will run the app in the development mode.<br />
 The page will reload if you edit any code file.<br />
 You will also see any lint errors in the console.
 
-#Requirements
+## Requirements
 
 In order to successfully run this project, make sure you have the following dependencies installed in your machine:
 - npm
